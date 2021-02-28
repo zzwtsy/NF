@@ -6,7 +6,8 @@
 **请执行以下一键脚本即可**
 
    bash <(curl -sSL https://raw.githubusercontent.com/zzwtsy/NF/main/nf.sh)
-   bash <(curl -sSL https://raw.githubusercontent.com/zzwtsy/NF/main/nf.sh)
+   
+   HK: bash <(curl -sSL https://raw.githubusercontent.com/zzwtsy/NF/main/nf.sh)
 
 原作者：[@CoiaPrant][1] [@zerocloud][2]
 
